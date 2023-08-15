@@ -1,0 +1,170 @@
+{
+	
+  "ironsource_app_key": "xxxx",
+  "ironsource_banner_id": "xxxx",
+  "ironsource_interstitial_id": "xxxx",
+  "ironsource_rewarded_id": "xxxx",
+ 
+  "applovin_banner_id": "xxxxxx",
+  "applovin_interstitial_id": "xxxxxx",
+  "applovin_native_id": "xxxxxx",
+  "applovin_rewarded_id": "xxxxxx",
+  "is_max": true,
+  
+  "unity_banner_id": "xxxx",
+  "unity_interstitial_id": "xxxx",
+  "unity_rewarded_id": "xxxx",
+  "unity_app_id": "xxxx",
+  "is_unity_test_mode": true,
+  
+  "admob_banner": "xxxx",
+  "admob_interstitial": "xxxx",
+  "admob_native": "xxxx",
+  "admob_rewarded": "xxxx",
+  
+  "facebook_banner": "xxxx",
+  "facebook_interstitial": "xxxx",
+  "facebook_native": "xxxx",
+  "facebook_rewarded": "xxxx",
+  
+  "startapp_id": "xxxxxxxx",
+
+  "Interstitial": "xxxxxxxx",
+  "Banner": "xxxxxxxx",
+  "Native": "xxxxxxxx",
+  "Rewarded": "xxxxxxxx",
+  
+  
+  "main_inter": true,
+  
+  "show_force_rate": true,
+  
+  
+  "show_slider": false,
+
+  "show_activities": true,
+  
+  "slider_in_details": true,
+  
+  
+  "clicks_to_show_inter": 2,
+  "native_rate": 2,
+  
+  
+  "show_rate_us_in_list": true,
+  
+  
+  "show_cpa": true,
+  "cpa_image": "https://cdn.ramseysolutions.net/media/blog/taxes/business-taxes/what-does-a-cpa-do.jpg",
+  "cpa_url": "https://www.ramseysolutions.com/taxes/what-does-a-cpa-do",
+  "cpa_button_text": "Get It Now!",
+  
+  "show_rating_exit_popup": true,
+  
+  "onesignal_id": "xxxxxxx",
+  
+  "is_app_suspended": false,
+  "suspended_title": "A new update for this app is available.",
+  "suspended_message": "Update this app because this version has some issues.",
+  "suspended_URL": "xxxx",
+  
+  "show_app_1": true,
+  "app_icon_1": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+  "app_title_1": "Parchisi STAR Online",
+  "app_desc_1": "Parchisi STAR is an online multiplayer game.",
+  "app_url_1": "com.superking.parchisi.star",
+  
+  "show_app_2": true,
+  "app_icon_2": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag=s512-rw",
+  "app_title_2": "8 Ball Pool",
+  "app_desc_2": "8 Ball Pool is your online challenge in 3D!",
+  "app_url_2": "com.miniclip.eightballpool",
+  
+  "show_app_3": true,
+  "app_icon_3": "https://play-lh.googleusercontent.com/hO7716hh7NCcFauJedDclX-R3Zh9JmbSs8AUU6TP2edGVILlZM7gmyt_8WPCZELiPQA=s512-rw",
+  "app_title_3": "Plants vs. Zombies™",
+  "app_desc_3": "Soil your plants as a mob of fun-loving zombies",
+  "app_url_3": "com.ea.game.pvzfree_row",
+  
+  "show_app_4": true,
+  "app_icon_4": "https://images.ctfassets.net/hrltx12pl8hq/3j5RylRv1ZdswxcBaMi0y7/b84fa97296bd2350db6ea194c0dce7db/Music_Icon.jpg",
+  "app_title_4": "App Name",
+  "app_desc_4": "The standard chunk of Lorem Ipsum used since the 1500s",
+  "app_url_4": "com.ea.game.pvzfree_row",
+
+
+  "guides": [
+	{
+	 "image": "https://images.ctfassets.net/hrltx12pl8hq/3j5RylRv1ZdswxcBaMi0y7/b84fa97296bd2350db6ea194c0dce7db/Music_Icon.jpg",
+	 "title": "title 1",
+	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+
+	 "showInSlider": true,
+	 
+	 "isLocked": false,
+	 "id": 1
+
+	},
+	{
+	 "image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767737.jpg",
+	 "title": "title 2",
+	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+
+	 "showInSlider": false,
+	 
+	 "isLocked": true,
+	 "id": 2
+	 
+	},
+	{
+	 "image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767731-810x456.jpg",
+	 "title": "title 3",
+	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+
+	 "showInSlider": true,
+	 
+	 "isLocked": false,
+	 "id": 3
+
+	},
+	{
+	"image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767734-810x456.jpg",
+	 "title": "title 4",
+	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+
+	 "showInSlider": false,
+	 
+	 "isLocked": false,
+	 "id": 4
+
+	},
+	{
+	"image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767458-810x456.jpg",
+	 "title": "title 5",
+	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+
+	 "showInSlider": true,
+	 
+	 "isLocked": false,
+	 "id": 5
+
+	},
+	{
+	"image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767446.jpg",
+	 "title": "title 6",
+	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+
+	 "showInSlider": true,
+	 
+	 "isLocked": false,
+	 "id": 6
+
+	}
+  ]  
+}
