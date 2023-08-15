@@ -37,10 +37,10 @@
   
   "main_inter": true,
   
-  "show_force_rate": true,
+  "show_force_rate": false,
   
   
-  "show_slider": false,
+  "show_slider": true ,
 
   "show_activities": true,
   
@@ -54,7 +54,7 @@
   "show_rate_us_in_list": true,
   
   
-  "show_cpa": true,
+  "show_cpa": false,
   "cpa_image": "https://cdn.ramseysolutions.net/media/blog/taxes/business-taxes/what-does-a-cpa-do.jpg",
   "cpa_url": "https://www.ramseysolutions.com/taxes/what-does-a-cpa-do",
   "cpa_button_text": "Get It Now!",
@@ -68,25 +68,25 @@
   "suspended_message": "Update this app because this version has some issues.",
   "suspended_URL": "xxxx",
   
-  "show_app_1": true,
-  "app_icon_1": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
-  "app_title_1": "Parchisi STAR Online",
-  "app_desc_1": "Parchisi STAR is an online multiplayer game.",
-  "app_url_1": "com.superking.parchisi.star",
+  "show_app_1": false,
+  "app_icon_1": "https://play-lh.googleusercontent.com/OZoa06sJ3HvVpE8V8g9ax6uXFuu6NTgH63NTXcLEYSdp3WBDIaVdKXXgWjGyZwO9Vir5=w240-h480-rw",
+  "app_title_1": "Otaku Wallpapers 4K",
+  "app_desc_1": "Otaku Wallpapers 4K is the ultimate destination for anime enthusiasts",
+  "app_url_1": "com.otaku.wallpapers4k",
   
-  "show_app_2": true,
+  "show_app_2": false,
   "app_icon_2": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag=s512-rw",
   "app_title_2": "8 Ball Pool",
   "app_desc_2": "8 Ball Pool is your online challenge in 3D!",
   "app_url_2": "com.miniclip.eightballpool",
   
-  "show_app_3": true,
+  "show_app_3": false,
   "app_icon_3": "https://play-lh.googleusercontent.com/hO7716hh7NCcFauJedDclX-R3Zh9JmbSs8AUU6TP2edGVILlZM7gmyt_8WPCZELiPQA=s512-rw",
   "app_title_3": "Plants vs. Zombies™",
   "app_desc_3": "Soil your plants as a mob of fun-loving zombies",
   "app_url_3": "com.ea.game.pvzfree_row",
   
-  "show_app_4": true,
+  "show_app_4": false,
   "app_icon_4": "https://images.ctfassets.net/hrltx12pl8hq/3j5RylRv1ZdswxcBaMi0y7/b84fa97296bd2350db6ea194c0dce7db/Music_Icon.jpg",
   "app_title_4": "App Name",
   "app_desc_4": "The standard chunk of Lorem Ipsum used since the 1500s",
@@ -95,10 +95,10 @@
 
   "guides": [
 	{
-	 "image": "https://images.ctfassets.net/hrltx12pl8hq/3j5RylRv1ZdswxcBaMi0y7/b84fa97296bd2350db6ea194c0dce7db/Music_Icon.jpg",
-	 "title": "title 1",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+	 "image": "https://iili.io/HDIyOmX.png",
+	 "title": "Mr Toto Taha",
+	 "text": "",
+	 "text_two": "",
 
 	 "showInSlider": true,
 	 
@@ -107,23 +107,10 @@
 
 	},
 	{
-	 "image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767737.jpg",
-	 "title": "title 2",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
-
-	 "showInSlider": false,
-	 
-	 "isLocked": true,
-	 "id": 2
-	 
-	},
-	{
-	 "image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767731-810x456.jpg",
-	 "title": "title 3",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
-
+	 "image": "https://iili.io/HDIyOmX.png",
+	 "title": "Mr Moro Taha",
+	 "text": "Moro (born 3 August 1996), known by his stage name Moro or Moro, is an Moroccan rapper, performing in Darija, French and English (usually mixing between them)",
+	 "text_two": "He is the most listened artist in the MENA region on Spotify in 2021, with more than 135 million streams in 178 countries",
 	 "showInSlider": true,
 	 
 	 "isLocked": false,
@@ -131,11 +118,21 @@
 
 	},
 	{
-	"image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767734-810x456.jpg",
-	 "title": "title 4",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+	 "image": "https://iili.io/HDIyOmX.png",
+	 "title": "Mr Moro ",
+	 "text": "Having started his career in 2016, ElGrandeToto quickly enjoyed great success, especially with his song Pablo (2017), which managed to propel him to the forefront of the Moroccan scene",
+	 "text_two": "In 2018, he released his first project, an EP entitled Illicit.",
+	 "showInSlider": false,
+	 
+	 "isLocked": true,
+	 "id": 3
 
+	},
+	{
+	 "image": "https://iili.io/HDIyOmX.png",
+	 "title": "Mr Moro",
+	 "text": "In 2020, Taha was the eighth most streamed Arab artist in MENA on Deezer, and his song “Hors Série” was the seventh most streamed song on the platform",
+	 "text_two": "In the same year, he won the title of "Best Hip-Hop/Rap Artist" in the 2020 African Entertainment Awards USA.",
 	 "showInSlider": false,
 	 
 	 "isLocked": false,
@@ -143,11 +140,10 @@
 
 	},
 	{
-	"image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767458-810x456.jpg",
-	 "title": "title 5",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
-
+	 "image": "https://iili.io/HDIyOmX.png",
+	 "title": "Mr Moro",
+	 "text": "In 2020, Fahssi lost his mother and released the song Mghayer in her tribute on 5 January 2021, which is now the most viewed music video on his YouTube channel with over 83 million views",
+	 "text_two": "In March 2021, Toto's debut album "Caméléon" was ranked among the top 6 global album debuts worldwide by Spotify, an unprecedented achievement for any Arab singer. In the same year, the artist entered the Forbes list of music stars in the Arab world, which includes the 50 most successful singers and bands of 2021",
 	 "showInSlider": true,
 	 
 	 "isLocked": false,
@@ -155,11 +151,10 @@
 
 	},
 	{
-	"image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767446.jpg",
-	 "title": "title 6",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
-
+	 "image": "https://iili.io/HDIyOmX.png",
+	 "title": "Mr Moro",
+	 "text": "In 2021, he was awarded with the title of both most streamed Arab artist and most streamed artist in the MENA region ",
+	 "text_two": " ElGrandeToto received his first music recording certification from his collaboration with the Nigerian Afrobeats singer CKay on the remix of his 2021 hit song ",
 	 "showInSlider": true,
 	 
 	 "isLocked": false,
